@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as s}from"./app.2277f8cd.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/study/html/html5.md"}'),a={name:"docs/study/html/html5.md"};function o(r,c,n,d,m,l){return e(),s("div")}const i=t(a,[["render",o]]);export{_ as __pageData,i as default};
